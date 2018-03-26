@@ -1,0 +1,45 @@
+.jumbotron {
+  height: auto;
+  background-color: #004561;
+}
+
+.main-button-container {
+  margin-top: 5%;
+  max-width: 610px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.answer:hover {
+  background: #17a2b8;
+  color: white;
+}
+
+.answer {
+  padding-top: 7px;
+  height: 45px;
+  width: 100%;
+  text-align: left;
+  color: black;
+  padding-left: 14px;
+  background-color: white;
+  border-radius: 4px;
+}
+
+.main-area {
+    width: 100%;
+}
+
+body {
+  background-color: #17a2b8;
+  background-image: url(../images/background.jpg);
+  color: white;
+}
+
+img {
+    width: auto;
+}
+
+p {
+    padding: 10px;
+}
